@@ -45,20 +45,14 @@ const projects = [
         redirect: "https://marketplace.visualstudio.com/items?itemName=DevCmb.programming-wrapped"
     },
     {
-        name: "FFlag API",
-        description: "I made a Fast Flag API that allows featurs to be asynchronously toggled without requiring servers to be put into maintenance or restarted. Very useful for developers.",
-        image: "Images/Flag.png",
-        redirect: "https://github.com/29cmb/FFlagAPI"
-    },
-    {
         name: "Platinum Minigames",
-        description: "Platinum Minigames is a game where you play minigames in order to purchase cosmetics and other things. Play with friends or play solo! Complete the season pass or complete quests! The way you play is up to you.",
+        description: "Platinum Minigames is a game where you play minigames in order to purchase cosmetics and other things. Play with friends or play solo! Complete the season pass or complete quests! The way you play is up to you. (this game is bad and old, don't play it 😭)",
         image: "Images/Platinum.png",
         redirect: "https://www.roblox.com/games/6132510146/Platinum-Minigames"
     },
     {
         name: "Cleaner Menu",
-        description: "Cleaner menu is a geometry dash mod which moves around the position of the menu buttons to be cleaner and less disorganized. UX design by UCrash, implementation by me. Not my best work, no, as I know basically nothing about c++.",
+        description: "Cleaner menu is a geometry dash mod which moves around the position of the menu buttons to be cleaner and less disorganized. UX design by UCrash, implementation by me.",
         image: "Images/CleanerMenu.png",
         redirect: "https://geode-sdk.org/mods/devcmb.cleanermenu"
     },
@@ -73,12 +67,6 @@ const projects = [
         description: "A sprig game I made in around 4 hours to receive a sprig device grant. Made for hackclub arcade 2024 and hosted on their sprig website",
         image: "Images/Sprig.png",
         redirect: "https://sprig.hackclub.com/gallery/Slimer"
-    },
-    {
-        name: "Arcade Discord Bot",
-        description: "A discord bot to interact with the hackclub arcade API through discord instead of through heidi the hakkun on slack. Made for hackclub arcade 2024.",
-        image: "Images/HackClubDiscordIcon.png",
-        redirect: "https://github.com/29cmb/ArcadeDiscordBot"
     },
     {
         name: "Kaboom Webhook Server",
